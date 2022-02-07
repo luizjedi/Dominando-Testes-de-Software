@@ -1,0 +1,12 @@
+C:\Projetos\LuizJedi\Dominando Testes de Software\Testes de Unidade\Demo\bin\Debug\net5.0\Demo.deps.json
+C:\Projetos\LuizJedi\Dominando Testes de Software\Testes de Unidade\Demo\bin\Debug\net5.0\Demo.dll
+C:\Projetos\LuizJedi\Dominando Testes de Software\Testes de Unidade\Demo\bin\Debug\net5.0\ref\Demo.dll
+C:\Projetos\LuizJedi\Dominando Testes de Software\Testes de Unidade\Demo\bin\Debug\net5.0\Demo.pdb
+C:\Projetos\LuizJedi\Dominando Testes de Software\Testes de Unidade\Demo\obj\Debug\net5.0\Demo.csproj.AssemblyReference.cache
+C:\Projetos\LuizJedi\Dominando Testes de Software\Testes de Unidade\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LuizJedi\Dominando Testes de Software\Testes de Unidade\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+C:\Projetos\LuizJedi\Dominando Testes de Software\Testes de Unidade\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+C:\Projetos\LuizJedi\Dominando Testes de Software\Testes de Unidade\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+C:\Projetos\LuizJedi\Dominando Testes de Software\Testes de Unidade\Demo\obj\Debug\net5.0\Demo.dll
+C:\Projetos\LuizJedi\Dominando Testes de Software\Testes de Unidade\Demo\obj\Debug\net5.0\ref\Demo.dll
+C:\Projetos\LuizJedi\Dominando Testes de Software\Testes de Unidade\Demo\obj\Debug\net5.0\Demo.pdb
