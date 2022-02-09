@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "moFq8z2oxMYoLqFMbzWRAntO1E58AF5h1arfBHTD/bNhSrxqiPcDRAMs55qJRnkNFuDE0H+fZL8p/ZmZhhceVA==",
+  "dgSpecHash": "BuVa/mMz40dcVWXYUTjm7q8Ged44TUyoy+/8AvsRYMF2UcGOQA0KBUd66xAYtCqAztfRDXh/4iPSI93MOvUuBA==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\luiz.oliveira\\.nuget\\packages\\bogus\\34.0.1\\bogus.34.0.1.nupkg.sha512",
     "C:\\Users\\luiz.oliveira\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\luiz.oliveira\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\luiz.oliveira\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",

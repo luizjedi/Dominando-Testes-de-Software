@@ -104,3 +104,4 @@ C:\Projetos\LuizJedi\Dominando Testes de Software\Testes de Unidade\Features.Tes
 C:\Projetos\LuizJedi\Dominando Testes de Software\Testes de Unidade\Features.Tests\obj\Debug\net5.0\ref\Features.Tests.dll
 C:\Projetos\LuizJedi\Dominando Testes de Software\Testes de Unidade\Features.Tests\obj\Debug\net5.0\Features.Tests.pdb
 C:\Projetos\LuizJedi\Dominando Testes de Software\Testes de Unidade\Features.Tests\obj\Debug\net5.0\Features.Tests.genruntimeconfig.cache
+C:\Projetos\LuizJedi\Dominando Testes de Software\Testes de Unidade\Features.Tests\bin\Debug\net5.0\Bogus.dll

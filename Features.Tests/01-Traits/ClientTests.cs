@@ -29,7 +29,7 @@ namespace Features.Tests._01_Traits
 
             // Assert
             Assert.True(result);
-            Assert.Equal(expected: 0, actual: client.ValidationResult.Errors.Count);
+            Assert.Empty(client.ValidationResult.Errors);
         }
 
         [Fact(DisplayName = "New Invalid Client")]
@@ -51,7 +51,7 @@ namespace Features.Tests._01_Traits
 
             // Assert
             Assert.False(result);
-            Assert.NotEqual(expected: 0, actual: client.ValidationResult.Errors.Count);
+            Assert.NotEmpty(client.ValidationResult.Errors);
         }
     }
 }
