@@ -48,6 +48,18 @@
               "target": "Package",
               "version": "[34.0.1, )"
             },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "MOQ": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "MOQ.automock": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.9.4, )"
@@ -84,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -148,7 +160,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

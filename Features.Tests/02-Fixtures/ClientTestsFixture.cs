@@ -10,7 +10,7 @@ namespace Features.Tests._02_Fixtures
     {
         public Client GenerateValidClient()
         {
-            var gender = new Faker("pt-BR").PickRandom<Name.Gender>();
+            var gender = new Faker().PickRandom<Name.Gender>();
             //var email = new Faker("pt-BR").Internet.Email("luiz");
 
             var client = new Faker<Client>("pt_BR")
