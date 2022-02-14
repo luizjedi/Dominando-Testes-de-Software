@@ -1,0 +1,80 @@
+<Playlist Version="2.0">
+  <Rule Name="Includes" Match="Any">
+    <Rule Match="All">
+      <Property Name="Solution" />
+      <Rule Match="Any">
+        <Rule Match="All">
+          <Property Name="Project" Value="Features.Tests" />
+          <Rule Match="Any">
+            <Rule Match="All">
+              <Property Name="Namespace" Value="Features.Tests._04_Human_Data" />
+              <Rule Match="Any">
+                <Rule Match="All">
+                  <Property Name="Class" Value="ClientBogusTests" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="Features.Tests._04_Human_Data.ClientBogusTests.Client_NewClient_MustBeInvalid" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="New Invalid Client" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+              </Rule>
+            </Rule>
+            <Rule Match="All">
+              <Property Name="Namespace" Value="Features.Tests._06_AutoMock" />
+              <Rule Match="Any">
+                <Rule Match="All">
+                  <Property Name="Class" Value="ClientServiceAutoMockerTests" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="Features.Tests._06_AutoMock.ClientServiceAutoMockerTests.ClientService_Add_MustRunWithFail" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="Add Client with fail" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="Features.Tests._06_AutoMock.ClientServiceAutoMockerTests.ClientService_Add_MustRunWithSuccess" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="Add Client with success" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="Features.Tests._06_AutoMock.ClientServiceAutoMockerTests.ClientService_GetAllActives_ShouldReturnOnlyActiveClients" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="Get Active Client" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+              </Rule>
+            </Rule>
+            <Rule Match="All">
+              <Property Name="Namespace" Value="Features.Tests._07_FluentAssertions" />
+              <Rule Match="Any">
+                <Rule Match="All">
+                  <Property Name="Class" Value="ClientFluentAssertionsTests" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="Features.Tests._07_FluentAssertions.ClientFluentAssertionsTests.Client_NewClient_MustBeInvalid" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="New Invalid Client" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="Features.Tests._07_FluentAssertions.ClientFluentAssertionsTests.Client_NewClient_MustBeValid" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="New Valid Client" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+              </Rule>
+            </Rule>
+          </Rule>
+        </Rule>
+      </Rule>
+    </Rule>
+  </Rule>
+</Playlist>

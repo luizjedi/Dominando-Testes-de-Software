@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features.Tests\\Features.Tests.csproj": {}
+  },
+  "projects": {
+    "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features.Tests\\Features.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features.Tests\\Features.Tests.csproj",
+        "projectName": "Features.Tests",
+        "projectPath": "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features.Tests\\Features.Tests.csproj",
+        "packagesPath": "C:\\Users\\luiz.oliveira\\.nuget\\packages\\",
+        "outputPath": "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\luiz.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features\\Features.csproj": {
+                "projectPath": "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features\\Features.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.1, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "MOQ": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "MOQ.automock": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features\\Features.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features\\Features.csproj",
+        "projectName": "Features",
+        "projectPath": "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features\\Features.csproj",
+        "packagesPath": "C:\\Users\\luiz.oliveira\\.nuget\\packages\\",
+        "outputPath": "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\luiz.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

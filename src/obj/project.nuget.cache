@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MRiIK/5JosPJZGg/9zW4gbSFvUuRbeZKggvznVbFuu6gEGxWJvnGARhTu2A/Af6XoJVH+UiSmHjEYd8/RHoKzA==",
+  "dgSpecHash": "FOjwvKxvW06DtxsYjhYArZQ9DelMr0c+T5EMT6z35Z0p+bZJf48gfvMOer6zFQMcWWHYR2NMP2ZPo3K4EfUj9w==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Demo.TesteDeUnidade.csproj",
+  "projectFilePath": "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Demo.TesteDeUnidade.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luiz.oliveira\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\luiz.oliveira\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
