@@ -6746,11 +6746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features.Tests\\Features.Tests.csproj",
+      "projectUniqueName": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features.Tests\\Features.Tests.csproj",
       "projectName": "Features.Tests",
-      "projectPath": "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features.Tests\\Features.Tests.csproj",
+      "projectPath": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features.Tests\\Features.Tests.csproj",
       "packagesPath": "C:\\Users\\luiz.oliveira\\.nuget\\packages\\",
-      "outputPath": "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features.Tests\\obj\\",
+      "outputPath": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luiz.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6767,8 +6767,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features\\Features.csproj": {
-              "projectPath": "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features\\Features.csproj"
+            "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features\\Features.csproj": {
+              "projectPath": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Features\\Features.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Demo\\Demo.csproj": {}
+    "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Demo\\Demo.csproj": {}
   },
   "projects": {
-    "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Demo\\Demo.csproj": {
+    "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Demo\\Demo.csproj",
+        "projectUniqueName": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Demo\\Demo.csproj",
+        "projectPath": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\luiz.oliveira\\.nuget\\packages\\",
-        "outputPath": "c:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Demo\\obj\\",
+        "outputPath": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\Testes de Unidade\\src\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luiz.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
