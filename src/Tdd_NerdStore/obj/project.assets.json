@@ -1,11 +1,63 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "FluentValidation/10.3.6": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/FluentValidation.dll": {}
+        }
+      },
+      "Tdd_NerdStore.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "fluentvalidation": "10.3.6"
+        },
+        "compile": {
+          "bin/placeholder/Tdd_NerdStore.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tdd_NerdStore.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "FluentValidation/10.3.6": {
+      "sha512": "iMd370ZDx6ydm8t7bIFdRbSKX0e42lpvCtifUSbTSXOk5iKjmgl7HU0PXBhIWQAyIRi3gCwfMI9luj8H6K+byw==",
+      "type": "package",
+      "path": "fluentvalidation/10.3.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.10.3.6.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
+    "Tdd_NerdStore.Core/1.0.0": {
+      "type": "project",
+      "path": "../Tdd_NerdStore.Core/Tdd_NerdStore.Core.csproj",
+      "msbuildProject": "../Tdd_NerdStore.Core/Tdd_NerdStore.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Tdd_NerdStore.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\luiz.oliveira\\.nuget\\packages\\": {}
@@ -33,7 +85,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\02-TestDrivenDevelopment\\src\\Tdd_NerdStore.Core\\Tdd_NerdStore.Core.csproj": {
+              "projectPath": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\02-TestDrivenDevelopment\\src\\Tdd_NerdStore.Core\\Tdd_NerdStore.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

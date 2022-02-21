@@ -101,3 +101,6 @@ C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests
 C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Domain.Tests\obj\Debug\net5.0\ref\Tdd_NerdStore.Domain.Tests.dll
 C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Domain.Tests\obj\Debug\net5.0\Tdd_NerdStore.Domain.Tests.pdb
 C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Domain.Tests\obj\Debug\net5.0\Tdd_NerdStore.Domain.Tests.genruntimeconfig.cache
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Domain.Tests\bin\Debug\net5.0\Tdd_NerdStore.Core.dll
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Domain.Tests\bin\Debug\net5.0\Tdd_NerdStore.Core.pdb
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Domain.Tests\bin\Debug\net5.0\FluentValidation.dll

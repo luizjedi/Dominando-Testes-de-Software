@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "rnPhbyK4LZyp36Rxluky9IjBsiPYMfy0pKt2/jPVHWcl2/x43egSi+Nlusm7w5ZCW1pzHzIkPX33PpBoh5LKoA==",
+  "dgSpecHash": "FvzhKEXFgfKrDYfoULcEsdXXfz9Kewi64rYo7OMR7Tt7T+a8vbtL3Xxudp9CSKGFrmvzxO4bPZ9I7JHV6DWgIA==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\02-TestDrivenDevelopment\\tests\\Tdd_NerdStore.Domain.Tests\\Tdd_NerdStore.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luiz.oliveira\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\luiz.oliveira\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\luiz.oliveira\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\luiz.oliveira\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\luiz.oliveira\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",

@@ -10,3 +10,6 @@ C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\src\T
 C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\src\Tdd_NerdStore\obj\Debug\net5.0\Tdd_NerdStore.Domain.dll
 C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\src\Tdd_NerdStore\obj\Debug\net5.0\ref\Tdd_NerdStore.Domain.dll
 C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\src\Tdd_NerdStore\obj\Debug\net5.0\Tdd_NerdStore.Domain.pdb
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\src\Tdd_NerdStore\bin\Debug\net5.0\Tdd_NerdStore.Core.dll
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\src\Tdd_NerdStore\bin\Debug\net5.0\Tdd_NerdStore.Core.pdb
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\src\Tdd_NerdStore\obj\Debug\net5.0\Tdd_NerdStore.Domain.csproj.CopyComplete

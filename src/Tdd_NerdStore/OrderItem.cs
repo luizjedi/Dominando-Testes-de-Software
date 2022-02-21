@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Tdd_NerdStore.Core.DomainObjects;
 
 namespace Tdd_NerdStore.Domain
 {
@@ -15,10 +12,23 @@ namespace Tdd_NerdStore.Domain
 
         public OrderItem(Guid productId, string productName, int amount, decimal unitaryValue)
         {
+            if (amount < Order.Min_ITEM_UNITY)
+                throw new DomainException($"Minimum of {Order.Min_ITEM_UNITY} units per product");
+
             this.ProductId = productId;
             this.ProductName = productName;
             this.Amount = amount;
             this.UnitaryValue = unitaryValue;
+        }
+
+        internal void AddUnity(int unity)
+        {
+            this.Amount += unity;
+        }
+
+        internal decimal CalculateTotalValue()
+        {
+            return this.Amount * this.UnitaryValue;
         }
     }
 }
