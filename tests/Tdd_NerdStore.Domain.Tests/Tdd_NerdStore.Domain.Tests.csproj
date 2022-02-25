@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Tdd_NerdStore\Tdd_NerdStore.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Tdd_NerdStore.Domain\Tdd_NerdStore.Domain.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "FvzhKEXFgfKrDYfoULcEsdXXfz9Kewi64rYo7OMR7Tt7T+a8vbtL3Xxudp9CSKGFrmvzxO4bPZ9I7JHV6DWgIA==",
+  "dgSpecHash": "cf3u6Woh/6qOzV5PU/tPh4DdBwrKlvQ+iJjnAEa+619WkLE3PEPk4wYeIfz7ezEizDbpBRnOUCH7PakM9nGgnA==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\02-TestDrivenDevelopment\\tests\\Tdd_NerdStore.Domain.Tests\\Tdd_NerdStore.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luiz.oliveira\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\luiz.oliveira\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\luiz.oliveira\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\luiz.oliveira\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\luiz.oliveira\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\luiz.oliveira\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\luiz.oliveira\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",

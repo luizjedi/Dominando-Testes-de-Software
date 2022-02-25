@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippets  xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Public Static String Property</Title>
+			<Shortcut>pssp</Shortcut>
+			<Description>Code snippet for constructor with properties</Description>
+			<Author>Luiz Jedi</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal>
+					<ID>property</ID>
+					<ToolTip>Property name</ToolTip>
+					<Default>MyProperty</Default>
+				</Literal>
+				<Literal>
+					<ID>message</ID>
+					<ToolTip>Message text</ToolTip>
+					<Default>MyMesssage</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="csharp" Format="CData"><![CDATA[public static string $property$ => "$message$";$end$]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

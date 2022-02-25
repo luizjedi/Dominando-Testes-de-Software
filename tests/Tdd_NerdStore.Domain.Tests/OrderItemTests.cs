@@ -1,5 +1,6 @@
 ﻿using System;
 using Tdd_NerdStore.Core.DomainObjects;
+using Tdd_NerdStore.Domain.Data;
 using Xunit;
 
 namespace Tdd_NerdStore.Domain.Tests
@@ -7,7 +8,7 @@ namespace Tdd_NerdStore.Domain.Tests
     public class OrderItemTests
     {
         [Fact(DisplayName = "New Order Item Bellow Allowed")]
-        [Trait("Category", "New Order Item Tests")]
+        [Trait("Category", "Order Item Tests")]
         public void AddOrderItem_ItemBellowAllowed_MustBeReturnException()
         {
             // Arranje & Act & Assert

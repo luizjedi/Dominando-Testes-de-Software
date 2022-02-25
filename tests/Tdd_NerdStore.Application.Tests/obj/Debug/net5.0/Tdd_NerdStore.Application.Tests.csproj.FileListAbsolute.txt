@@ -98,3 +98,16 @@ C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests
 C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Application.Tests\obj\Debug\net5.0\ref\Tdd_NerdStore.Application.Tests.dll
 C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Application.Tests\obj\Debug\net5.0\Tdd_NerdStore.Application.Tests.pdb
 C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Application.Tests\obj\Debug\net5.0\Tdd_NerdStore.Application.Tests.genruntimeconfig.cache
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Application.Tests\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Application.Tests\bin\Debug\net5.0\Tdd_NerdStore.Application.dll
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Application.Tests\bin\Debug\net5.0\Tdd_NerdStore.Application.pdb
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Application.Tests\bin\Debug\net5.0\FluentValidation.dll
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Application.Tests\bin\Debug\net5.0\Tdd_NerdStore.Core.dll
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Application.Tests\bin\Debug\net5.0\Tdd_NerdStore.Domain.dll
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Application.Tests\bin\Debug\net5.0\Tdd_NerdStore.Core.pdb
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Application.Tests\bin\Debug\net5.0\Tdd_NerdStore.Domain.pdb
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Application.Tests\bin\Debug\net5.0\Castle.Core.dll
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Application.Tests\bin\Debug\net5.0\MediatR.dll
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Application.Tests\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Application.Tests\bin\Debug\net5.0\Moq.dll
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\tests\Tdd_NerdStore.Application.Tests\bin\Debug\net5.0\Moq.AutoMock.dll

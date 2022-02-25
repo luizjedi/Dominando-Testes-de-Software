@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tdd_NerdStore.Data/1.0.0": {
+        "runtime": {
+          "Tdd_NerdStore.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tdd_NerdStore.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

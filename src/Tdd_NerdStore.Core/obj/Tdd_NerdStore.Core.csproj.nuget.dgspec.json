@@ -40,6 +40,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Mediatr": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
             "fluentvalidation": {
               "target": "Package",
               "version": "[10.3.6, )"

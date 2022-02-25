@@ -40,6 +40,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Mediatr": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
             "fluentvalidation": {
               "target": "Package",
               "version": "[10.3.6, )"
@@ -64,14 +68,14 @@
         }
       }
     },
-    "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\02-TestDrivenDevelopment\\src\\Tdd_NerdStore\\Tdd_NerdStore.Domain.csproj": {
+    "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\02-TestDrivenDevelopment\\src\\Tdd_NerdStore.Domain\\Tdd_NerdStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\02-TestDrivenDevelopment\\src\\Tdd_NerdStore\\Tdd_NerdStore.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\02-TestDrivenDevelopment\\src\\Tdd_NerdStore.Domain\\Tdd_NerdStore.Domain.csproj",
         "projectName": "Tdd_NerdStore.Domain",
-        "projectPath": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\02-TestDrivenDevelopment\\src\\Tdd_NerdStore\\Tdd_NerdStore.Domain.csproj",
+        "projectPath": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\02-TestDrivenDevelopment\\src\\Tdd_NerdStore.Domain\\Tdd_NerdStore.Domain.csproj",
         "packagesPath": "C:\\Users\\luiz.oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\02-TestDrivenDevelopment\\src\\Tdd_NerdStore\\obj\\",
+        "outputPath": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\02-TestDrivenDevelopment\\src\\Tdd_NerdStore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luiz.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -146,8 +150,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\02-TestDrivenDevelopment\\src\\Tdd_NerdStore\\Tdd_NerdStore.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\02-TestDrivenDevelopment\\src\\Tdd_NerdStore\\Tdd_NerdStore.Domain.csproj"
+              "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\02-TestDrivenDevelopment\\src\\Tdd_NerdStore.Domain\\Tdd_NerdStore.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\02-TestDrivenDevelopment\\src\\Tdd_NerdStore.Domain\\Tdd_NerdStore.Domain.csproj"
               }
             }
           }

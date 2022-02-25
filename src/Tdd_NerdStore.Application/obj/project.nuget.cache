@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gdq60xrjcFDh6O2XCHSrnvLOLhYlLz5hEtv6WPoOkwqLN2Tn/svZWMdW03+4QZ3GlXGjcEJzMsq8Tw1Pec1qIA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\LuizJedi\\Dominando Testes de Software\\02-TestDrivenDevelopment\\src\\Tdd_NerdStore.Application\\Tdd_NerdStore.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luiz.oliveira\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\luiz.oliveira\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\luiz.oliveira\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

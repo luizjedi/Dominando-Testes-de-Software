@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippets  xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Constructor with Properties</Title>
+			<Shortcut>ctorp</Shortcut>
+			<Description>Code snippet for constructor with properties</Description>
+			<Author>Luiz Jedi</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+              <References>
+                <Reference>public $type$ $property$ { get; set; }</Reference>
+              </References>
+			  <Declarations>
+                <Literal default="true" Editable="false">
+                    <ID>classname</ID>
+                    <ToolTip>Class name</ToolTip>
+                    <Function>ClassName()</Function>
+                    <Default>ClassNamePlaceholder</Default>
+                </Literal>
+                <Literal>
+                    <ID>propertytype</ID>
+                    <ToolTip>Property type</ToolTip>
+                    <Function>GenerateSwitchCases($type$)</Function>
+                    <Default>$type$</Default>
+                </Literal>
+                <Literal>
+                    <ID>name</ID>
+                    <ToolTip>Property name</ToolTip>
+                    <Function>GenerateSwitchCases($property$)</Function>
+                    <Default>$property$</Default>
+                </Literal>
+            </Declarations>
+            <Code Language="csharp" Format="CData">
+                <![CDATA[
+                    public $classname$ ($propertytype$ _$name$)
+                    {
+                        this.$name$ = _$name$;$end$
+                    }
+                ]]>
+            </Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

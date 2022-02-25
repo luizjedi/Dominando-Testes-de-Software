@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Linq;
+using Tdd_NerdStore.Domain.Data;
+using Tdd_NerdStore.Domain.Enums;
 using Xunit;
 
 namespace Tdd_NerdStore.Domain.Tests
