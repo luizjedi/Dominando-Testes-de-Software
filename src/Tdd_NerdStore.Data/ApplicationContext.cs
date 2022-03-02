@@ -1,6 +1,5 @@
 ﻿using MediatR;
 using Microsoft.EntityFrameworkCore;
-using System;
 using System.Threading.Tasks;
 using Tdd_NerdStore.Core.Interfaces;
 

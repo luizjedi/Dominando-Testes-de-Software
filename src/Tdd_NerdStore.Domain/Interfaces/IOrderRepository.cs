@@ -11,5 +11,6 @@ namespace Tdd_NerdStore.Domain.Interfaces
         void Update(Order order);
         Task<Order> GetOrderDraftByClientId(Guid clientId);
         void AddItem(OrderItem orderItem);
+        void UpdateItem(OrderItem orderItem);
     }
 }

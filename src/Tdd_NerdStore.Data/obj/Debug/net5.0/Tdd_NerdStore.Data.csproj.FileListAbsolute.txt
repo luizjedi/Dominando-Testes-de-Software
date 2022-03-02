@@ -9,3 +9,10 @@ C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\src\T
 C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\src\Tdd_NerdStore.Data\obj\Debug\net5.0\Tdd_NerdStore.Data.dll
 C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\src\Tdd_NerdStore.Data\obj\Debug\net5.0\ref\Tdd_NerdStore.Data.dll
 C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\src\Tdd_NerdStore.Data\obj\Debug\net5.0\Tdd_NerdStore.Data.pdb
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\src\Tdd_NerdStore.Data\bin\Debug\net5.0\Tdd_NerdStore.Data.runtimeconfig.json
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\src\Tdd_NerdStore.Data\bin\Debug\net5.0\Tdd_NerdStore.Data.runtimeconfig.dev.json
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\src\Tdd_NerdStore.Data\bin\Debug\net5.0\Tdd_NerdStore.Core.dll
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\src\Tdd_NerdStore.Data\bin\Debug\net5.0\Tdd_NerdStore.Core.pdb
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\src\Tdd_NerdStore.Data\obj\Debug\net5.0\Tdd_NerdStore.Data.csproj.AssemblyReference.cache
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\src\Tdd_NerdStore.Data\obj\Debug\net5.0\Tdd_NerdStore.Data.csproj.CopyComplete
+C:\Projetos\LuizJedi\Dominando Testes de Software\02-TestDrivenDevelopment\src\Tdd_NerdStore.Data\obj\Debug\net5.0\Tdd_NerdStore.Data.genruntimeconfig.cache
